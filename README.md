@@ -47,7 +47,7 @@ The hostname is analyzed for characteristics that may contribute to the risk sco
 
 Each detected indicator can add points to the overall risk score.
 
-## 📊 Risk Scoring
+## Risk Scoring
 
 After analyzing the URL, the system calculates a risk score based on the indicators it detects.
 
@@ -142,4 +142,4 @@ Possible future improvements could include:
 
 ---
 
-**Educational cybersecurity project built with Python. 🐍🛡️**
+**Educational cybersecurity project built with Python.**
